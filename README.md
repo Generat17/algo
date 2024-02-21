@@ -8,7 +8,7 @@
 7) Граф
 
 Бинарный поиск
-1) First Bad Version
+1) (First Bad Version)[https://leetcode.com/problems/first-bad-version]
 2) Valid Perfect Square
 3) Search Insert Position
 4) Sqrt(x)

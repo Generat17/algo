@@ -9,14 +9,14 @@
 
 Бинарный поиск
 1) [First Bad Version](https://leetcode.com/problems/first-bad-version)
-2) Valid Perfect Square
-3) Search Insert Position
-4) Sqrt(x)
-5) Search in Rotated Sorted Array
-6) Peak Index in a Mountain Array
-7) Find First and Last Position of Element
-8) Search a 2D Matrix
-9) Search a 2D Matrix II
+2) [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
+3) [Search Insert Position](https://leetcode.com/problems/search-insert-position)
+4) [Sqrt(x)](https://leetcode.com/problems/sqrtx)
+5) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+6) [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)
+7) [Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+8) [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)
+9) [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)
 
 Два указателя
 1) Remove Duplicates From Sorted Array
